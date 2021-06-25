@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/go-redis/redis"
-	"github.com/go-session/session"
+	"github.com/screeningeagledreamlab/go-session"
 )
 
 var (
