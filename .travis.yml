@@ -1,6 +1,6 @@
 language: go
 sudo: false
-go_import_path: github.com/go-session/redis
+go_import_path: github.com/screeningeagledreamlab/go-redis
 go:
   - 1.7
 services:

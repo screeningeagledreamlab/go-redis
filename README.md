@@ -7,7 +7,7 @@
 ### Download and install
 
 ```bash
-$ go get -u -v github.com/go-session/redis
+$ go get -u -v github.com/screeningeagledreamlab/go-redis
 ```
 
 ### Create file `server.go`
@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-session/redis"
+	"github.com/screeningeagledreamlab/go-redis"
 	"github.com/screeningeagledreamlab/go-session"
 )
 
@@ -89,9 +89,9 @@ $ ./server
 [Build-Status-Image]: https://travis-ci.org/go-session/redis.svg?branch=master
 [codecov-url]: https://codecov.io/gh/go-session/redis
 [codecov-image]: https://codecov.io/gh/go-session/redis/branch/master/graph/badge.svg
-[reportcard-url]: https://goreportcard.com/report/github.com/go-session/redis
-[reportcard-image]: https://goreportcard.com/badge/github.com/go-session/redis
-[godoc-url]: https://godoc.org/github.com/go-session/redis
-[godoc-image]: https://godoc.org/github.com/go-session/redis?status.svg
+[reportcard-url]: https://goreportcard.com/report/github.com/screeningeagledreamlab/go-redis
+[reportcard-image]: https://goreportcard.com/badge/github.com/screeningeagledreamlab/go-redis
+[godoc-url]: https://godoc.org/github.com/screeningeagledreamlab/go-redis
+[godoc-image]: https://godoc.org/github.com/screeningeagledreamlab/go-redis?status.svg
 [license-url]: http://opensource.org/licenses/MIT
 [license-image]: https://img.shields.io/npm/l/express.svg
